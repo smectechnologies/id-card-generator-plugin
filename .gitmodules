@@ -1,0 +1,3 @@
+[submodule "vendor/tcpdf"]
+	path = vendor/tcpdf
+	url = https://github.com/smectechnologies/id-card-generator-plugin.git
